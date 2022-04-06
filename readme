@@ -1,0 +1,4 @@
+WEb tabanlı chat uygulaması
+çalıştırmak için iki ayrı terminal içinde client ve server klasörlerini açın 
+önce server klasöründeki nodejs projesini npm start komutu ile başlatın
+daha sonra client klöründeki reactjs uygulamasını npm start komutu ile başlatın.
